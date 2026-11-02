@@ -74,10 +74,10 @@ EPFL Machine Learning team project with only 100 labelled images. **My part:** t
 </td>
 <td width="50%" valign="top">
 
-#### 📰 [Smart news classifier](https://github.com/Harkeerat2002/smart-news-classifier)
-Real-time IT-news aggregator: RSS ingestion, **LLM-based classification** into six categories with a keyword fallback, and a searchable **FastAPI** service.
+#### 📺 [YouTube clickbait analysis](https://epfl-ada.github.io/ada-2025-project-datahunt3rs/)
+When and for whom does clickbait work on YouTube? Team analysis of **70M+ videos**: I co-built the title classifier (news headlines + ~18k LLM-annotated YouTube titles, **test F1 0.62 → 0.77**) and the interactive data-story website.
 
-`Python` `FastAPI` `OpenAI API`
+`Python` `scikit-learn` `Pandas` `Next.js` `TypeScript`
 
 </td>
 </tr>
