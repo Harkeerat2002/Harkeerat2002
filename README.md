@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2F7DBB&height=190&section=header&text=Harkeerat%20Singh%20Sawhney&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=MSc%20Computer%20Science%20%40%20EPFL%20%C2%B7%20AI%20Engineering%20%26%20LLM%20Agents&descSize=16&descAlignY=58" width="100%" alt="Harkeerat Singh Sawhney"/>
+<img src="assets/banner.svg" width="100%" alt="Harkeerat Singh Sawhney"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=2F7DBB&center=true&vCenter=true&width=640&lines=Building+LLM+agents+that+work+in+production;Hybrid+retrieval+%C2%B7+knowledge+graphs+%C2%B7+RAG;If+it+isn't+evaluated%2C+it+isn't+done;Looking+for+a+master's+thesis+in+industry+(2027)" alt="Typing SVG"/></a>
 
